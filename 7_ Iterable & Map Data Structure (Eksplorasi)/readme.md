@@ -1,0 +1,5 @@
+# (7) Iterable & Map Data Structure
+
+## 1. Iterable sendiri merupakan  konsep dalam pemrograman yang merujuk pada suatu objek yang dapat diperulangkan atau diiterasi. Objek iterable dapat berupa list, tuple, set, string, dan lain-lain. Dalam proses iterasi, setiap elemen dari objek iterable dapat diakses satu per satu, sehingga kita dapat melakukan operasi tertentu pada masing-masing elemen.
+## 2. Kemudian Map data structure adalah struktur data yang digunakan untuk menyimpan data dalam bentuk pasangan key-value. Dalam map, setiap key harus unik dan digunakan untuk mengidentifikasi value yang terkait dengannya.
+## 3. Konsep iterable dan map data structure dapat digunakan bersama-sama. Fungsi map ini menerima dua argumen, yaitu fungsi yang akan diaplikasikan pada setiap elemen objek iterable, dan objek iterable itu sendiri. Dengan demikian, kita dapat melakukan operasi yang sama pada setiap elemen objek iterable secara otomatis dan mudah.
