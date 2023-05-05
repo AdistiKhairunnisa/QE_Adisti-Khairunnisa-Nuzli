@@ -1,0 +1,5 @@
+# (10) RESTful API Testing with Rest Assured
+## 1. Rest Assured adalah sebuah library untuk melakukan testing terhadap RESTful API dengan menggunakan bahasa Java. Dengan Rest Assured, pengguna dapat melakukan testing terhadap berbagai fitur dari API, seperti HTTP methods, authentication, parameter, header, dan response body.
+## 2. Rest Assured memiliki kemampuan untuk melakukan validasi pada response dari API. Hal ini memungkinkan pengguna untuk memastikan bahwa API telah memberikan response yang benar dan sesuai dengan ekspektasi.
+## 3. Rest Assured juga mendukung penggunaan BDD (Behavior-Driven Development) untuk melakukan testing API. Dengan BDD, pengguna dapat menuliskan skenario testing dalam bahasa yang lebih mudah dipahami oleh stakeholder, sehingga memudahkan kolaborasi antara tim development, QA, dan stakeholder.
+## 4. Rest Assured dapat diintegrasikan dengan berbagai tools dan framework seperti Maven, JUnit, dan TestNG. Hal ini memudahkan pengguna dalam melakukan testing secara otomatis dan terintegrasi dengan build system yang digunakan dalam project.
